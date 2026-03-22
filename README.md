@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jakub (Jacob)</h1>
 
+<img src="https://img.shields.io/badge/C++-blue?logo=cplusplus"> <img src="https://img.shields.io/badge/HTML-orange?logo=html5"> <img src="https://img.shields.io/badge/HTML-orange?logo=html5"> <img src="https://img.shields.io/badge/HTML-orange?logo=html5"> <img src="https://img.shields.io/badge/HTML-orange?logo=html5"> 
+
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=AviRoo&theme=outrun&show_icons=true&locale=en" alt="AviRoo" /><br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AviRoo&theme=shades-of-purple" alt="AviRoo" />
 </p>
 
 <p align="center">
