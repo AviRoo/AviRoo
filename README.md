@@ -17,7 +17,7 @@
 - I know HTML syntax well.
 - I’m learning more advanced CSS features to better customize the look of my websites.
 - I can use JavaScript.
-- I’m also good with PHP—I can connect websites to databases and build simple projects with it.
+- I’m also good with PHP - I can connect websites to databases and build simple projects with it.
 - I can use C++ for basic projects as well.
 - I use tools like Visual Studio Code, Code::Blocks, Notepad++, W3Schools TryIt Editor, XAMPP, and MySQL to test my projects.
 - Recently, I’ve become interested in Java and I’m trying to learn it.
