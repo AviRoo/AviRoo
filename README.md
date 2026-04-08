@@ -3,11 +3,11 @@
 <p align="center"><img src="https://img.shields.io/badge/HTML-orange?logo=html5"> <img src="https://img.shields.io/badge/CSS-lightblue?logo=css"> <img src="https://img.shields.io/badge/JS-yellow?logo=javascript"> <img src="https://img.shields.io/badge/PHP-a8fff9?logo=php"> <img src="https://img.shields.io/badge/C++-blue?logo=cplusplus"></p>
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=AviRoo&theme=outrun&show_icons=true&locale=en" alt="AviRoo" /><br>
+   <img src="https://github-readme-stats.vercel.app/api?username=AviRoo&theme=outrun&show_icons=true&locale=en" alt="AviStats" /><br>
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AviRoo&theme=outrun&show_icons=true&locale=en&layout=compact" alt="jankupczyk" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AviRoo&theme=outrun&show_icons=true&locale=en&layout=compact" alt="AviStats" />
 </p>
 
 <br>
@@ -24,3 +24,5 @@
 - Outside of programming, I’m a hobby photographer - my social media links and some stats will be below.
 - I can also use programs like Photoshop, Lightroom, DaVinci Resolve, Darktable, and FireAlpaca.
 - In my free time, I’m a big gamer. I like retro games and different kinds of electronics that I enjoy fixing - or sometimes breaking ;) .
+
+<p align="center"><img src="https://img.shields.io/badge/FLICKR-stats%20here-blue?logo=flickr&logoColor=white&labelColor=0063DC&color=FF0084"> <img src="https://img.shields.io/badge/PS-stats%20here-blue?logo=playstation&logoColor=white&labelColor=006FCD&color=c5ebfa">"
