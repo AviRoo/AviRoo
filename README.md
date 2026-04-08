@@ -25,4 +25,4 @@
 - I can also use programs like Photoshop, Lightroom, DaVinci Resolve, Darktable, and FireAlpaca.
 - In my free time, I’m a big gamer. I like retro games and different kinds of electronics that I enjoy fixing - or sometimes breaking ;) .
 
-<p align="center"><img src="https://img.shields.io/badge/FLICKR-stats%20here-blue?logo=flickr&logoColor=white&labelColor=0063DC&color=FF0084"> <img src="https://img.shields.io/badge/PS-stats%20here-blue?logo=playstation&logoColor=white&labelColor=006FCD&color=c5ebfa">"
+<p align="center"><img src="https://img.shields.io/badge/FLICKR-stats%20here-blue?logo=flickr&logoColor=white&labelColor=0063DC&color=FF0084"> <img src="https://img.shields.io/badge/FURTRACK-stats%20here-blue?logo=protocolsdotio&logoColor=white&labelColor=7022d6&color=d4baf7"> <img src="https://img.shields.io/badge/PS-stats%20here-blue?logo=playstation&logoColor=white&labelColor=006FCD&color=c5ebfa"> <img src="https://img.shields.io/badge/XBOX-stats%20here-blue?logo=xing&logoColor=white&labelColor=107C10&color=deffcf"> <img src="https://img.shields.io/badge/RETRO-stats%20here-blue?logo=retroachievements&logoColor=white&labelColor=navy&color=f6fab9">
