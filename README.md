@@ -25,5 +25,5 @@
 - I can also use programs like Photoshop, Lightroom, DaVinci Resolve, Darktable, and FireAlpaca.
 - In my free time, I’m a big gamer. I like retro games and different kinds of electronics that I enjoy fixing - or sometimes breaking ;) .
 
-<p align="center"><img src="https://img.shields.io/badge/FLICKR-views:%200-blue?logo=flickr&logoColor=white&labelColor=0063DC&color=FF0084"> <img src="https://img.shields.io/badge/FURTRACK-photos:%2075%20|%20xp:%20363-blue?logo=protocolsdotio&logoColor=white&labelColor=7022d6&color=d4baf7">
+<p align="center"><img src="https://img.shields.io/badge/FLICKR-photos:%200%20|%20views:%200-blue?logo=flickr&logoColor=white&labelColor=0063DC&color=FF0084"> <img src="https://img.shields.io/badge/FURTRACK-photos:%2075%20|%20xp:%20363-blue?logo=protocolsdotio&logoColor=white&labelColor=7022d6&color=d4baf7">
 <img src="https://img.shields.io/badge/PS-lvl:%20217%20|%20trophies:%201053-blue?logo=playstation&logoColor=white&labelColor=006FCD&color=c5ebfa"> <img src="https://img.shields.io/badge/XBOX-gscore:%206090%20|%20achiev:%20278-blue?logo=xing&logoColor=white&labelColor=107C10&color=deffcf"> <img src="https://img.shields.io/badge/RETRO-h--points:%20208%20|%20rank:%20--%20|%20achiev:%2047-blue?logo=retroachievements&logoColor=white&labelColor=navy&color=f6fab9"></p>
