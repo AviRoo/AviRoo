@@ -17,13 +17,10 @@
    <img src="https://img.shields.io/badge/W3S-00965f?logo=w3schools&logoColor=white"> 
    <img src="https://img.shields.io/badge/XAMPP-FB7A24?logo=xampp&logoColor=white"> 
    <img src="https://img.shields.io/badge/MYSQL-4479A1?logo=mysql&logoColor=white">
-   
-</p>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=AviRoo&theme=outrun&show_icons=true&locale=en" alt="AviStats" /><br>
 </p>
 
 <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=AviRoo&theme=outrun&show_icons=true&locale=en" alt="AviStats" /><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AviRoo&theme=outrun&show_icons=true&locale=en&layout=compact" alt="AviStats" />
 </p>
 
